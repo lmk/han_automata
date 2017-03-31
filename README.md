@@ -1,2 +1,2 @@
 # han_automata
-hungul automata chrome extension
+Korean automata for chrome extension
